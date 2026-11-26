@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_header.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_item_due.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\item_due.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_family_chores.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_family_chores.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_square.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_item_quick.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\item_quick.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.example.kaamkaaj.app-debug-31:/layout_activity_warranty.xml.flat",
+        "source": "com.example.kaamkaaj.app-main-33:/layout/activity_warranty.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_item_legend.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\item_legend.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_dialog_two_fields.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\dialog_two_fields.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_item_entry.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\item_entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_deco.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_deco.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_badge.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_bills.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_bills.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_dialog_item.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_task.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\layout_activity_maintenance.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\layout\\activity_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_ic_pie.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\ic_pie.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\drawable_bg_dot.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\drawable\\bg_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-debug-31:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.9\\com.example.kaamkaaj.app-main-33:\\menu\\bottom_nav.xml"
+    }
+]

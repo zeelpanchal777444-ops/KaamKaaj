@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5B5FEF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E3E4FF</color>
+    <color name="on_primary_container">#14165C</color>
+    <color name="bg">#FFFFFF</color>
+    <color name="card">#FFFFFF</color>
+    <color name="header_start">#5B5FEF</color>
+    <color name="header_end">#8A5CF6</color>
+    <color name="login_bg">#524FB5</color>
+    <color name="good">#1F8A5B</color>
+    <color name="good_bg">#DDF5E8</color>
+    <color name="warn">#B87800</color>
+    <color name="warn_bg">#FFF1CC</color>
+    <color name="bad">#D93B40</color>
+    <color name="bad_bg">#FFE3E3</color>
+    <color name="neutral_fg">#5A5F73</color>
+    <color name="neutral_bg">#ECEEF6</color>
+    <color name="stripe_neutral">#E0E2EC</color>
+</resources>
