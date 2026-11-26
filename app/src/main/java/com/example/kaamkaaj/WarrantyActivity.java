@@ -37,6 +37,7 @@ public class WarrantyActivity extends AppCompatActivity {
         findViewById(R.id.backBtn).setOnClickListener(v -> finish());
 
         String name = Store.userName(this);
+        userName = findViewById(R.id.userName);
         userName.setText(name.isEmpty() ? "Suman!" : name + "!");
         ((TextView) findViewById(R.id.profileAvatar)).setText(name.isEmpty() ? "S" : name.substring(0, 1).toUpperCase());
 
